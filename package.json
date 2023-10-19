@@ -1,0 +1,23 @@
+{
+  "name": "@alfiras/loader",
+  "version": "1.0.0",
+  "description": "Utils for load config from argument & env & json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qreimeider/loader.git"
+  },
+  "author": "Alfiras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qreimeider/loader/issues"
+  },
+  "homepage": "https://github.com/qreimeider/loader#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nconf": "^0.12.0"
+  }
+}
